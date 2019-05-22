@@ -15,6 +15,7 @@
 		FC5C95F9228E14D40080DF5C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC5C95F8228E14D40080DF5C /* Assets.xcassets */; };
 		FC5C95FC228E14D40080DF5C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC5C95FA228E14D40080DF5C /* LaunchScreen.storyboard */; };
 		FC5C9607228E14D40080DF5C /* MealMeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC5C9606228E14D40080DF5C /* MealMeTests.swift */; };
+		FC5C9615228E27C70080DF5C /* RandomMealInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC5C9614228E27C70080DF5C /* RandomMealInfo.swift */; };
 		FC5C9617228E4FC80080DF5C /* MealData.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC5C9616228E4FC80080DF5C /* MealData.swift */; };
 		FC946A272294050800905018 /* VideoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC946A262294050800905018 /* VideoViewController.swift */; };
 /* End PBXBuildFile section */

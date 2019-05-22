@@ -34,4 +34,5 @@ class VideoViewController: UIViewController {
         playerView.layer.shadowRadius = 5.0 //Here your control your blur
         playerView.layer.masksToBounds =  false
     }
+    //hello
 }
